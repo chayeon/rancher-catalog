@@ -1,4 +1,4 @@
-name: Kubernetes
+name: Chayeon Kubernetes
 description: Default Kubernetes template
 stacks:
   - name: kubernetes
